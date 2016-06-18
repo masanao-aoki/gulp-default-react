@@ -1,0 +1,22 @@
+{
+  "name": "samle",
+  "description": "",
+  "version": "1.0.0",
+  "author": "bocc",
+  "dependencies": {
+    "react": "",
+    "react-dom": ""
+  },
+  "devDependencies": {
+    "gulp": "",
+    "gulp-webpack": "",
+    "gulp-connect": "",
+    "gulp-watch": "",
+    "babel-loader": "",
+    "babel-core": "",
+    "babel-preset-es2015": "",
+    "babel-preset-react": "",
+    "require-dir": "",
+    "gulp-postcss": ""
+  }
+}
